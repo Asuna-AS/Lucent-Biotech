@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lucent-biotech-website/static/css/main.f39eb4f2.chunk.css",
+    "main.js": "/lucent-biotech-website/static/js/main.24a3aba1.chunk.js",
+    "main.js.map": "/lucent-biotech-website/static/js/main.24a3aba1.chunk.js.map",
+    "runtime-main.js": "/lucent-biotech-website/static/js/runtime-main.02835551.js",
+    "runtime-main.js.map": "/lucent-biotech-website/static/js/runtime-main.02835551.js.map",
+    "static/css/2.2ae1d27d.chunk.css": "/lucent-biotech-website/static/css/2.2ae1d27d.chunk.css",
+    "static/js/2.2588c65a.chunk.js": "/lucent-biotech-website/static/js/2.2588c65a.chunk.js",
+    "static/js/2.2588c65a.chunk.js.map": "/lucent-biotech-website/static/js/2.2588c65a.chunk.js.map",
+    "index.html": "/lucent-biotech-website/index.html",
+    "static/css/2.2ae1d27d.chunk.css.map": "/lucent-biotech-website/static/css/2.2ae1d27d.chunk.css.map",
+    "static/css/main.f39eb4f2.chunk.css.map": "/lucent-biotech-website/static/css/main.f39eb4f2.chunk.css.map",
+    "static/js/2.2588c65a.chunk.js.LICENSE.txt": "/lucent-biotech-website/static/js/2.2588c65a.chunk.js.LICENSE.txt",
+    "static/media/StarIcon.000aae00.png": "/lucent-biotech-website/static/media/StarIcon.000aae00.png",
+    "static/media/award-1.1ffaa875.jpg": "/lucent-biotech-website/static/media/award-1.1ffaa875.jpg",
+    "static/media/award-3.5aaf014f.jpg": "/lucent-biotech-website/static/media/award-3.5aaf014f.jpg",
+    "static/media/award-4.1530fdec.jpg": "/lucent-biotech-website/static/media/award-4.1530fdec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02835551.js",
+    "static/css/2.2ae1d27d.chunk.css",
+    "static/js/2.2588c65a.chunk.js",
+    "static/css/main.f39eb4f2.chunk.css",
+    "static/js/main.24a3aba1.chunk.js"
+  ]
+}

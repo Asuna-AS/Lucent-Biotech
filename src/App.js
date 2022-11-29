@@ -16,6 +16,7 @@ import ServicesDetailScreen from './screens/ServicesDetailScreen';
 import SignInScreen from './screens/SignInScreen';
 import SignUpScreen from './screens/SignUpScreen';
 import HistoryScreen from './screens/HistoryScreen';
+import { AiFillFormatPainter } from 'react-icons/ai';
 
 const App = () => {
   return (
