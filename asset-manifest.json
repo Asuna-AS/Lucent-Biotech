@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Lucent-Biotech/static/css/main.f39eb4f2.chunk.css",
-    "main.js": "/Lucent-Biotech/static/js/main.845b9267.chunk.js",
-    "main.js.map": "/Lucent-Biotech/static/js/main.845b9267.chunk.js.map",
+    "main.js": "/Lucent-Biotech/static/js/main.9f8cdf72.chunk.js",
+    "main.js.map": "/Lucent-Biotech/static/js/main.9f8cdf72.chunk.js.map",
     "runtime-main.js": "/Lucent-Biotech/static/js/runtime-main.39224688.js",
     "runtime-main.js.map": "/Lucent-Biotech/static/js/runtime-main.39224688.js.map",
     "static/css/2.2ae1d27d.chunk.css": "/Lucent-Biotech/static/css/2.2ae1d27d.chunk.css",
-    "static/js/2.419a114e.chunk.js": "/Lucent-Biotech/static/js/2.419a114e.chunk.js",
-    "static/js/2.419a114e.chunk.js.map": "/Lucent-Biotech/static/js/2.419a114e.chunk.js.map",
+    "static/js/2.e29acd3a.chunk.js": "/Lucent-Biotech/static/js/2.e29acd3a.chunk.js",
+    "static/js/2.e29acd3a.chunk.js.map": "/Lucent-Biotech/static/js/2.e29acd3a.chunk.js.map",
     "index.html": "/Lucent-Biotech/index.html",
     "static/css/2.2ae1d27d.chunk.css.map": "/Lucent-Biotech/static/css/2.2ae1d27d.chunk.css.map",
     "static/css/main.f39eb4f2.chunk.css.map": "/Lucent-Biotech/static/css/main.f39eb4f2.chunk.css.map",
-    "static/js/2.419a114e.chunk.js.LICENSE.txt": "/Lucent-Biotech/static/js/2.419a114e.chunk.js.LICENSE.txt",
+    "static/js/2.e29acd3a.chunk.js.LICENSE.txt": "/Lucent-Biotech/static/js/2.e29acd3a.chunk.js.LICENSE.txt",
     "static/media/StarIcon.000aae00.png": "/Lucent-Biotech/static/media/StarIcon.000aae00.png",
     "static/media/award-1.1ffaa875.jpg": "/Lucent-Biotech/static/media/award-1.1ffaa875.jpg",
     "static/media/award-3.5aaf014f.jpg": "/Lucent-Biotech/static/media/award-3.5aaf014f.jpg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.39224688.js",
     "static/css/2.2ae1d27d.chunk.css",
-    "static/js/2.419a114e.chunk.js",
+    "static/js/2.e29acd3a.chunk.js",
     "static/css/main.f39eb4f2.chunk.css",
-    "static/js/main.845b9267.chunk.js"
+    "static/js/main.9f8cdf72.chunk.js"
   ]
 }
