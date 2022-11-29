@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Aarti Drugs",
+    "image": "../assets/services/aartidrugs.jpg"
+  },
+  {
+    "id": 2,
+    "title": "",
+    "image": "../assets/services/akument.jpg.jpg"
+  },
+  {
+    "id": 3,
+    "title": "",
+    "image": "../assets/services/angfre.jpg.jpg"
+  },
+  {
+    "id": 4,
+    "title": "",
+    "image": "../assets/services/gl.jpg.jpg"
+  },
+  {
+    "id": 5,
+    "title": "",
+    "image": "../assets/services/image/service-5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "",
+    "image": "../assets/services/image/service-6.jpg"
+  }
+
+
+]
