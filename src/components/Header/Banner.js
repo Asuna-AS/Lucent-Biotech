@@ -3,6 +3,7 @@ import Fade from 'react-reveal/Fade';
 import { useHistory } from 'react-router-dom';
 import Button from '../Form/Button';
 import Particle from '../Particle';
+import banner from '../../banner.png';
 const Banner = () => {
     const history = useHistory();
 
@@ -30,7 +31,7 @@ const Banner = () => {
 
                     <Fade right>
                         <div className="order-1 lg:order-2">
-                            <img src="../../../assets/banner/banner.png" alt="banner" />
+                            <img src={banner} alt="banner" />
                         </div>
                     </Fade>
                 </div>
