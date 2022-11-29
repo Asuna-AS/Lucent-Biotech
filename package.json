@@ -1,7 +1,7 @@
 {
-  "name": "lucent-biotech-website",
+  "name": "Lucent-Biotech",
   "version": "0.1.0",
-  "homepage": "https://Asuna-AS.github.io/lucent-biotech-website",
+  "homepage": "https://Asuna-AS.github.io/Lucent-Biotech",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.3.0",
