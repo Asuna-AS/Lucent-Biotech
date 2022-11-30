@@ -13,31 +13,19 @@ SwiperCore.use([Navigation, Pagination, Autoplay]);
 const Testimonials = () => {
     const [data] = useFetch('testimonial')
     return (
+        <main>
         <section className="max-w-screen-xl mx-auto px-6 pb-24">
             {/* heading  */}
-            <Heading title="Testimonials" />
             {/* testimonials  */}
-            <Swiper
-            loop={true}
-                className="mySwiper py-6"
-                autoplay={{
-                    delay: 4000,
-                    disableOnInteraction: false
-                }}
-                pagination={true} grabCursor={true}
-                slidesPerView={1}
-                speed={600}
-                spaceBetween={20}
-            >
-                {data.map(item => (
-                    <SwiperSlide key={item.id}>
-                        <Bounce left>
-                            <Testimonial  {...item} />
-                        </Bounce>
-                    </SwiperSlide>
-                ))}
-            </Swiper>
+             
+                    
+                            <Bounce left>
+                                <img className='' src="https://lucentbiotech.com/wp-content/uploads/2020/06/leo-rivas-wtxcaDIdOCM-unsplash.jpg"></img>
+                            </Bounce>
+                    
+                
         </section>
+        </main>
     )
 }
 

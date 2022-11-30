@@ -42,7 +42,7 @@ const SignUpScreen = () => {
     }
 
     return (
-        <main className="h-screen w-full py-36">
+        <main className="h-screen w-full ">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-10 pt-14">
                 {/* form  */}
                 <Bounce left>

@@ -17,7 +17,7 @@ const Services = () => {
     return (
         <section className="max-w-screen-xl mx-auto px-6 py-6 pb-24">
             {/* heading  */}
-            <Heading title="Clientle" />
+            <Heading title="Satisfied Clientle" />
 
             {/* services  */}
             <Swiper
