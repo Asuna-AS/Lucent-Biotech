@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lucent-Biotech/static/css/main.d6b856fc.chunk.css",
-    "main.js": "/Lucent-Biotech/static/js/main.dc495d46.chunk.js",
-    "main.js.map": "/Lucent-Biotech/static/js/main.dc495d46.chunk.js.map",
+    "main.js": "/Lucent-Biotech/static/js/main.9f852c29.chunk.js",
+    "main.js.map": "/Lucent-Biotech/static/js/main.9f852c29.chunk.js.map",
     "runtime-main.js": "/Lucent-Biotech/static/js/runtime-main.39224688.js",
     "runtime-main.js.map": "/Lucent-Biotech/static/js/runtime-main.39224688.js.map",
     "static/css/2.2ae1d27d.chunk.css": "/Lucent-Biotech/static/css/2.2ae1d27d.chunk.css",
@@ -16,13 +16,15 @@
     "static/media/award-1.1ffaa875.jpg": "/Lucent-Biotech/static/media/award-1.1ffaa875.jpg",
     "static/media/award-3.5aaf014f.jpg": "/Lucent-Biotech/static/media/award-3.5aaf014f.jpg",
     "static/media/award-4.1530fdec.jpg": "/Lucent-Biotech/static/media/award-4.1530fdec.jpg",
-    "static/media/banner.ab8db453.png": "/Lucent-Biotech/static/media/banner.ab8db453.png"
+    "static/media/banner.ab8db453.png": "/Lucent-Biotech/static/media/banner.ab8db453.png",
+    "static/media/signin.10463149.png": "/Lucent-Biotech/static/media/signin.10463149.png",
+    "static/media/signup.84e9a5eb.png": "/Lucent-Biotech/static/media/signup.84e9a5eb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.39224688.js",
     "static/css/2.2ae1d27d.chunk.css",
     "static/js/2.e29acd3a.chunk.js",
     "static/css/main.d6b856fc.chunk.css",
-    "static/js/main.dc495d46.chunk.js"
+    "static/js/main.9f852c29.chunk.js"
   ]
 }

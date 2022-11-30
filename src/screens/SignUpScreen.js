@@ -6,6 +6,7 @@ import Button from '../components/Form/Button'
 import GoogleSignIn from '../components/Form/GoogleSignIn'
 import TextField from '../components/Form/TextField'
 import useAuth from '../hooks/useAuth'
+import signup from "../signup.png"
 
 const SignUpScreen = () => {
     const [userInput, setUserInput] = useState({
@@ -75,7 +76,7 @@ const SignUpScreen = () => {
                 {/* imagee  */}
                 <Bounce right>
                     <div className="hidden md:flex lg:flex flex-col justify-center items-center w-full h-screen">
-                        <img className="w-4/4 mx-auto" src="../../assets/signup.png" alt="signup" />
+                        <img className="w-4/4 mx-auto" src={signup} alt="signup" />
                     </div>
                 </Bounce>
             </div>

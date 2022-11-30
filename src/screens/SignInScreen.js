@@ -6,7 +6,7 @@ import Button from '../components/Form/Button'
 import GoogleSignIn from '../components/Form/GoogleSignIn'
 import TextField from '../components/Form/TextField'
 import useAuth from '../hooks/useAuth'
-
+import signin from "../signin.png"
 const SignInScreen = () => {
     const [userInput, setUserInput] = useState({
         email: '',
@@ -42,7 +42,7 @@ const SignInScreen = () => {
                 {/* image  */}
                 <Bounce left>
                     <div className="hidden md:flex lg:flex flex-col justify-center items-center w-full h-screen">
-                        {/* <img className="w-4/4 mx-auto" src="../../assets/signin.png" alt="signin" /> */}
+                        <img className="w-4/4 mx-auto pl-24 pt-24" src={signin} alt="signin" />
                     </div>
                 </Bounce>
 
