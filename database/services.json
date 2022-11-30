@@ -2,33 +2,66 @@
   {
     "id": 1,
     "title": "Aarti Drugs",
-    "image": "../assets/services/aartidrugs.jpg"
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-8-1.jpg"
   },
   {
     "id": 2,
-    "title": "",
-    "image": "../assets/services/akument.jpg.jpg"
+    "title": "Akumentis",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-10-1.jpg"
   },
   {
     "id": 3,
-    "title": "",
-    "image": "../assets/services/angfre.jpg.jpg"
+    "title": "Morepen",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-11-1.jpg"
   },
   {
     "id": 4,
-    "title": "",
-    "image": "../assets/services/gl.jpg.jpg"
+    "title": "Intas",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-1-2.jpg"
   },
   {
     "id": 5,
-    "title": "",
-    "image": "../assets/services/image/service-5.jpg"
+    "title": "Morepen",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-11-1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Zydus",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-2-2.jpg"
   },
   {
     "id": 6,
-    "title": "",
-    "image": "../assets/services/image/service-6.jpg"
+    "title": "Dr. Morepen",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-5-2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Leeford",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-6-1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "May & Baker",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-12.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Anglo-French",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-4-2.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Micro Labs Ltd.",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-9-1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Tablets India Ltd.",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-7-1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Galpha Laboratories",
+    "image": "https://lucentbiotech.com/wp-content/uploads/2020/06/Untitled-3-2.jpg"
   }
-
-
 ]
